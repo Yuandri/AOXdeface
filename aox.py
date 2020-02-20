@@ -54,7 +54,7 @@ def aox(script,target_file="target.txt"):
 
 def main(__bn__):
    print(__bn__)
-   while True:
+   while false:
       try:
          a = x("Enter your script deface name: ")
          if not os.path.isfile(a):
